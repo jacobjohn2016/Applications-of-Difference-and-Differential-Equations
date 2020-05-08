@@ -2,7 +2,7 @@
 
 MAT2002: Applications of Difference and Differential Equations (VIT, Vellore)
 
-![VIT-Logo](https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Vellore_Institute_of_Technology_seal_2017.svg/1200px-Vellore_Institute_of_Technology_seal_2017.svg.png =250x)
+![VIT-Logo](https://images.static-collegedunia.com/public/college_data/images/logos/1462520333logonew.jpeg)
 
 ### Experiments Overview
 
